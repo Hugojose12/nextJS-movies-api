@@ -12,9 +12,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@zeit/next-css": "^1.0.1",
     "axios": "^0.18.0",
+    "bootstrap": "^4.3.0",
     "next": "^8.0.0",
     "react": "^16.8.1",
-    "react-dom": "^16.8.1"
+    "react-dom": "^16.8.1",
+    "reactstrap": "^7.1.0"
   }
 }
