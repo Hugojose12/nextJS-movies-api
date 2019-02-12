@@ -1,0 +1,50 @@
+{
+  "mini-css-extract-plugin ../../../../Gustavo Ortiz\\Desktop\\Proyect React\\peliculas\\node_modules\\css-loader\\index.js??ref--5-1!../../../../Gustavo Ortiz\\Desktop\\Proyect React\\peliculas\\node_modules\\bootstrap\\dist\\css\\bootstrap.min.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "modules": {
+    "byIdentifier": {
+      "multi ../../../../Gustavo Ortiz\\Desktop\\Proyect React\\peliculas\\node_modules\\next\\dist\\client\\next": 0,
+      "css ../../../../Gustavo Ortiz\\Desktop\\Proyect React\\peliculas\\node_modules\\css-loader\\index.js??ref--5-1!../../../../Gustavo Ortiz\\Desktop\\Proyect React\\peliculas\\node_modules\\bootstrap\\dist\\css\\bootstrap.min.css 0": 1
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1
+    }
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "static/runtime/main.js": 2,
+      "static\\vNhlMeHp1i1TG_OTEk0ZB\\pages\\_app.js": 3,
+      "static\\vNhlMeHp1i1TG_OTEk0ZB\\pages\\_error.js": 4,
+      "static\\vNhlMeHp1i1TG_OTEk0ZB\\pages\\index.js": 5,
+      "styles": 6
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  }
+}
