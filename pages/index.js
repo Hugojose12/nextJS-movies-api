@@ -9,7 +9,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 export default class extends React.Component {
 	static async getInitialProps({ query }) {
 		const page = query.page ? Number(query.page) : 1;
-		const responde = await axios.get(`http://www.omdbapi.com/?apikey=c9d02680&s=batman&page=${page}`);
+		const responde = await axios.get(`https://www.omdbapi.com/?apikey=c9d02680&s=batman&page=${page}`);
 		const movies = responde.data.Search;
 		
 
